@@ -1,38 +1,62 @@
-.App {
-  text-align: center;
+* {
+  margin: 0;
+  padding: 0;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face {
+  font-family: "Hammersmith";
+  src: url("./fonts/Hammersmith_One/HammersmithOne-Regular.ttf");
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+@font-face {
+  font-family: "OpenSans_Regular";
+  src: url("./fonts/Open_Sans/static/OpenSans/OpenSans-Regular.ttf");
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+body {
+  font-family: "Hammersmith";
+  background-image: linear-gradient(to right bottom, #311b92, #3d219a, #4928a1, #532ea9, #5e35b1);
+}
+main {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  width: 100%;
+  height: 93vh;
 }
 
-.App-link {
-  color: #61dafb;
+
+/* Navbar styles*/
+/* Navbar styles*/
+/* Navbar styles*/
+
+.menuRightItem{
+  font-family: "OpenSans_Regular";
+  font-size: 13px;
+}
+.menuRightItem:hover {
+  border-bottom: 1px solid white;
+  transition: 0.2s ease;
+}
+.sideNavItemCustomIcon:hover{
+  background-color: #d1c4e9;
+}
+.itemText {
+  font-family: "OpenSans_Regular";
+}
+.circleHoverMDIcon:hover {
+  background-color: white;
+  opacity: 0.2;
+  z-index: -1;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Welcome Page - Social Network Links styles*/
+/* Welcome Page - Social Network Links styles*/
+/* Welcome Page - Social Network Links styles*/
+
+.descripitonTitle{
+  font-family: "OpenSans_Regular";
+}
+.networkLinks:hover {
+  cursor: pointer;
+  background-color: #7e57c2;
+  transition: 0.3s ease;
 }
