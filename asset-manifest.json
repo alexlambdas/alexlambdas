@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/alexlambdas/static/css/main.21d62477.chunk.css",
+    "main.js": "/alexlambdas/static/js/main.417136c2.chunk.js",
+    "main.js.map": "/alexlambdas/static/js/main.417136c2.chunk.js.map",
+    "runtime-main.js": "/alexlambdas/static/js/runtime-main.6123cf9b.js",
+    "runtime-main.js.map": "/alexlambdas/static/js/runtime-main.6123cf9b.js.map",
+    "static/css/2.16d2c739.chunk.css": "/alexlambdas/static/css/2.16d2c739.chunk.css",
+    "static/js/2.daf744fe.chunk.js": "/alexlambdas/static/js/2.daf744fe.chunk.js",
+    "static/js/2.daf744fe.chunk.js.map": "/alexlambdas/static/js/2.daf744fe.chunk.js.map",
+    "index.html": "/alexlambdas/index.html",
+    "static/css/2.16d2c739.chunk.css.map": "/alexlambdas/static/css/2.16d2c739.chunk.css.map",
+    "static/css/main.21d62477.chunk.css.map": "/alexlambdas/static/css/main.21d62477.chunk.css.map",
+    "static/js/2.daf744fe.chunk.js.LICENSE.txt": "/alexlambdas/static/js/2.daf744fe.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/alexlambdas/static/media/OpenSans-Regular.ca49d2b0.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6123cf9b.js",
+    "static/css/2.16d2c739.chunk.css",
+    "static/js/2.daf744fe.chunk.js",
+    "static/css/main.21d62477.chunk.css",
+    "static/js/main.417136c2.chunk.js"
+  ]
+}
