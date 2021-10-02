@@ -30,6 +30,9 @@ function App(){
                                     handleOpenNav={handleOpenNav}/>
                             )
                         }}/>
+                    <Route exact path="/">
+                        <Redirect to={ROUTES.ROUTE_WELCOME}/>
+                    </Route>
                 </Switch>
             </BrowserRouter>
         </div>
