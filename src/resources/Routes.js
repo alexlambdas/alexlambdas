@@ -1,5 +1,5 @@
 const ROUTES = {
-    ROUTE_WELCOME: "/welcome",
+    ROUTE_WELCOME: "/alexlambdas/welcome",
     ROUTE_MAIN: "/main",
     ROUTE_SKILLS: "/skills",
     ROUTE_PORTFOLIO: "/portfolio"

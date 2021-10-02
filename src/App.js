@@ -30,7 +30,7 @@ function App(){
                                     handleOpenNav={handleOpenNav}/>
                             )
                         }}/>
-                    <Route exact path="/">
+                    <Route exact path="/alexlambdas">
                         <Redirect to={ROUTES.ROUTE_WELCOME}/>
                     </Route>
                 </Switch>
